@@ -1,28 +1,15 @@
-# Basic Stack Navigation - Flutter
+# Login Screen - Flutter
 
 ## Description
-This application demonstrates navigation between screens using Navigator.push() and Navigator.pop().
+This application shows a simple login screen using Flutter.
 
-## Screens
-- Home Screen
-- Detail Screen
+## Features
+- Email input field
+- Password input field
+- Login button
+- SnackBar message
 
-## How it works
-- Press "Go to Details" → opens Detail Screen (push)
-- Press "Go Back" → returns to Home Screen (pop)
-
-## Screenshots
-
-### Home Screen
-![Home](assets/44 PM.jpeg)
-
-### Detail Screen
-![Details](assets/11 PM.jpeg)
- 
- ## Screenshots
-(assets/22 PM.jpeg)
-(assets/44 PM.jpeg)
-(assets/55 PM.jpeg)
-//
-//
-//
+## Screenshot
+![Login](assets/login_screen.png)
+![Login](assets/login_screen 2.png)
+![Login](assets/login_screen suss.png)
